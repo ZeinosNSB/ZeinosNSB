@@ -29,9 +29,11 @@
     <h5>⚡ Languages</h5>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cpp,swift,flutter" />
     <h5>⚡ Front-end skills</h5>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,mui,tailwind,webstorm,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,git,github" />
     <h5>⚡ Back-end Skills</h5>
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,firebase" /><br>
+    <h5>⚡ IDE</h5>
+    <img src="https://skillicons.dev/icons?i=webstorm,idea,clion" /><br>
 </div>
 
 <br/>
