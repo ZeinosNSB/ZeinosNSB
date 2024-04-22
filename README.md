@@ -13,7 +13,7 @@
     I'm a software developer studying Software Engineer at HUST. Some technologies I enjoy working with include ReactJS, NextJS, ... I am currently working on projects that help me grow as a developer and contribute to the community.
   </p>
 
-🌱 I’m currently learning **Swift and NextJS**
+🌱 I’m currently learning **Swift and NestJS**
 
  </div>
 
