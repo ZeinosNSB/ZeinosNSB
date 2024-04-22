@@ -10,10 +10,10 @@
   <h2>👨‍💻 About Me 👨‍💻</h2>
   <br>
   <p>
-    I'm a software developer studying Software Engineer at HUST. Some technologies I enjoy working with include ReactJS, NodeJS, Flutter, ... I am currently working on projects that help me grow as a developer and contribute to the community.
+    I'm a software developer studying Software Engineer at HUST. Some technologies I enjoy working with include ReactJS, NextJS, ... I am currently working on projects that help me grow as a developer and contribute to the community.
   </p>
 
-🌱 I’m currently learning **Swift, Flutter and NextJS**
+🌱 I’m currently learning **Swift and NextJS**
 
  </div>
 
@@ -27,9 +27,9 @@
 <br/>
 <div align="center">
     <h5>⚡ Languages</h5>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cpp,swift,flutter" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cpp,swift" />
     <h5>⚡ Front-end skills</h5>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,redux" />
     <h5>⚡ Back-end Skills</h5>
     <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,firebase" /><br>
     <h5>⚡ IDE</h5>
