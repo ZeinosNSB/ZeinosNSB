@@ -10,10 +10,10 @@
   <h2>👨‍💻 About Me 👨‍💻</h2>
   <br>
   <p>
-    I'm a software developer studying Software Engineer at HUST. Some technologies I enjoy working with include ReactJS, NextJS, ... I am currently working on projects that help me grow as a developer and contribute to the community.
+    I'm a software developer studying Software Engineer at HUST. Some technologies I enjoy working with include ReactJS, Swift, ... I am currently working on projects that help me grow as a developer and contribute to the community.
   </p>
 
-🌱 I’m currently learning **Swift and NestJS**
+🌱 I’m currently learning **NextJS and NestJS**
 
  </div>
 
