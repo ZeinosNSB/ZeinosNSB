@@ -31,7 +31,7 @@
     <h5>⚡ Front-end skills</h5>
     <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,materialui,redux,styledcomponents" />
     <h5>⚡ Back-end Skills</h5>
-    <img src="https://skillicons.dev/icons?i=nest,spring,mysql,mongodb,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=nest,hono,redis,mysql,mongodb,firebase" /><br>
     <h5>⚡ IDE</h5>
     <img src="https://skillicons.dev/icons?i=webstorm,idea,clion" /><br>
 </div>
