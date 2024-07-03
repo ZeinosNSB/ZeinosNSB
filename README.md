@@ -10,7 +10,7 @@
   <h2>👨‍💻 About Me 👨‍💻</h2>
   <br>
   <p>
-    I'm a software developer studying Software Engineer at HUST. Some technologies I enjoy working with include ReactJS, Swift, ... I am currently working on projects that help me grow as a developer and contribute to the community.
+    I'm a software developer studying Software Engineer at HUST. Some technologies I enjoy working with include ReactJS, ExpressJS, ... I am currently working on projects that help me grow as a developer and contribute to the community.
   </p>
 
 🌱 I’m currently learning **NextJS and NestJS**
@@ -27,11 +27,11 @@
 <br/>
 <div align="center">
     <h5>⚡ Languages</h5>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cpp,swift" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cpp" />
     <h5>⚡ Front-end skills</h5>
     <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,materialui,redux,styledcomponents" />
     <h5>⚡ Back-end Skills</h5>
-    <img src="https://skillicons.dev/icons?i=nest,hono,redis,mysql,mongodb,firebase" /><br>
+    <img src="https://skillicons.dev/icons?i=nest,express,,redis,mysql,mongodb,firebase,prisma,rabbitmq,elasticsearch,grafana,prometheus" /><br>
     <h5>⚡ IDE</h5>
     <img src="https://skillicons.dev/icons?i=webstorm,idea,clion" /><br>
 </div>
