@@ -27,7 +27,7 @@
 <br/>
 <div align="center">
     <h5>⚡ Languages</h5>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cpp, go" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cpp,go" />
     <h5>⚡ Front-end skills</h5>
     <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,redux,styledcomponents" />
     <h5>⚡ Back-end Skills</h5>
