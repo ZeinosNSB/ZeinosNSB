@@ -33,7 +33,7 @@
     <h5>⚡ Back-end Skills</h5>
     <img src="https://skillicons.dev/icons?i=nest,express,redis,mysql,mongodb,firebase,prisma,rabbitmq,elasticsearch,grafana,prometheus" /><br>
     <h5>⚡ IDE</h5>
-    <img src="https://skillicons.dev/icons?i=webstorm,idea,clion" /><br>
+    <img src="https://skillicons.dev/icons?i=webstorm,idea,zed" /><br>
 </div>
 
 <br/>
