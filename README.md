@@ -29,7 +29,7 @@
     <h5>⚡ Languages</h5>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,cpp" />
     <h5>⚡ Front-end skills</h5>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,antd,redux,styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,redux,styledcomponents" />
     <h5>⚡ Back-end Skills</h5>
     <img src="https://skillicons.dev/icons?i=nest,express,redis,mysql,mongodb,firebase,prisma,rabbitmq,elasticsearch,grafana,prometheus" /><br>
     <h5>⚡ IDE</h5>
@@ -43,7 +43,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-[nightowl_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=nightowl
+[nightowl_repo]: (https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=nightowl)
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ZeinosNSB&count_private=true&show_icons=true&theme=nightowl&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinosNSB&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
